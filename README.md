@@ -46,7 +46,7 @@
 <a href="https://www.linkedin.com/in/sidhigrover/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" style="filter: invert(60%) sepia(90%) saturate(300%) hue-rotate(90deg)"/>
 </a>
-<br> <br>
+<br> 
 <a href="mailto:sidhigroverg@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" style="filter: invert(60%) sepia(90%) saturate(300%) hue-rotate(90deg)"/>
 </a>
